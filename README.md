@@ -173,10 +173,3 @@ Monopoly/
  └── README.md              # this file
 ```
 
-## 👤 Author
-
-**Mohamad**  
-GitHub: https://github.com/mohamad99988765434567
-
-## 📜 License  
-For educational and personal use.
